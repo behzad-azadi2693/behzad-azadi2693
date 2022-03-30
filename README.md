@@ -1,6 +1,5 @@
 <section id="contact" class="site-section section-form text-center">
             <div class="container">
-    
                 <h3>ارتباط با من</h3>
                 <img src="{% static 'img/lines.svg' %}" class="img-lines" alt="lines">
                     <div class="row">
