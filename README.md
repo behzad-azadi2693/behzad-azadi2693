@@ -14,7 +14,7 @@
 <div class="row">
     <img style='width:7%; height:10%' src="https://personal-behzadazadi2693.fandogh.cloud/static/img/python.png">
     <img style='width:7%; height:10%' src="https://personal-behzadazadi2693.fandogh.cloud/static/img/django.png">
-    <img style='width:7%; height:10%' src="https://personal-behzadazadi2693.fandogh.cloud/static/img/drf.png%}">
+    <img style='width:7%; height:10%' src="https://personal-behzadazadi2693.fandogh.cloud/static/img/drf.png">
     <img style='width:7%; height:10%' src="https://personal-behzadazadi2693.fandogh.cloud/static/img/docker.png">
     <img style='width:7%; height:10%' src="https://personal-behzadazadi2693.fandogh.cloud/static/img/postgres.png">
     <img style='width:7%; height:10%' src="https://personal-behzadazadi2693.fandogh.cloud/static/img/redis.png">
