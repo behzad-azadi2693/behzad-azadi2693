@@ -25,4 +25,5 @@
     <img style='width:7%; height:10%' src="https://personal-behzadazadi2693.fandogh.cloud/static/img/scrume.png">
     <img style='width:7%; height:10%' src="https://personal-behzadazadi2693.fandogh.cloud/static/img/nginx.png">
     <img style='width:7%; height:10%' src="https://personal-behzadazadi2693.fandogh.cloud/static/img/git.png">
+    <img style='width:7%; height:10%' src="https://personal-behzadazadi2693.fandogh.cloud/static/img/celery.png">
 </div>
