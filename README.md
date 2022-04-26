@@ -12,7 +12,7 @@
         </div>
 </div>
 <hr>
-<h3>my field of study:</h3>
+<h2>my field of study:</h2>
 <div class="row">
     <img style='width:7%; height:10%' src="https://personal-behzadazadi2693.fandogh.cloud/static/img/python.png">
     <img style='width:7%; height:10%' src="https://personal-behzadazadi2693.fandogh.cloud/static/img/django.png">
