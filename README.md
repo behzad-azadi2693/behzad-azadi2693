@@ -1,4 +1,4 @@
-<p>Welcome my name is Behzad Azadi</p>
+<h1 style='color:orange'>Welcome my name is Behzad Azadi</h1>
 <h1><a href='https://personal-behzadazadi2693.fandogh.cloud/'>🌐My Resume</a></h1>
 <div>
     <h3>Ways to communicate with me</h3>
