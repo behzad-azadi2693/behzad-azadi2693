@@ -27,6 +27,6 @@
     <img style='width:7%; height:10%' src="https://personal-behzadazadi2693.fandogh.cloud/static/img/nginx.png">
     <img style='width:7%; height:10%' src="https://personal-behzadazadi2693.fandogh.cloud/static/img/git.png">
     <img style='width:7%; height:10%' src="https://personal-behzadazadi2693.fandogh.cloud/static/img/celery.png">
-    ![](https://github.com/behzad-azadi2693/django_personal_portfolio/blob/main/assets/img/celery.png)
+    (https://github.com/behzad-azadi2693/django_personal_portfolio/blob/main/assets/img/celery.png)
 
 </div>
