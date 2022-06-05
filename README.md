@@ -18,6 +18,7 @@
     <img style='width:7%; height:10%' src="https://github.com/behzad-azadi2693/django_personal_portfolio/blob/main/assets/img/python.png">
     <img style='width:7%; height:10%' src="https://github.com/behzad-azadi2693/django_personal_portfolio/blob/main/assets/img/django.png">
     <img style='width:7%; height:10%' src="https://github.com/behzad-azadi2693/django_personal_portfolio/blob/main/assets/img/drf.png">
+    <img style='width:7%; height:10%' src="https://github.com/behzad-azadi2693/django_personal_portfolio/blob/main/assets/img/fastapi.png">
     <img style='width:7%; height:10%' src="https://github.com/behzad-azadi2693/django_personal_portfolio/blob/main/assets/img/docker.png">
     <img style='width:7%; height:10%' src="https://github.com/behzad-azadi2693/django_personal_portfolio/blob/main/assets/img/postgres.png">
     <img style='width:7%; height:10%' src="https://github.com/behzad-azadi2693/django_personal_portfolio/blob/main/assets/img/redis.png">
