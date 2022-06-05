@@ -3,30 +3,29 @@
 <div>
     <h3>Ways to communicate with me</h3>
         <div class="row">
-            <a href='mailto:behzad.azadi2693@gmail.com'> <img style='width:10%; height:10%' src="https://personal-behzadazadi2693.fandogh.cloud/static/img/email.png"> </a>
-            <a href='https://github.com/behzad-azadi2693/'> <img style='width:10%; height:10%' src="https://personal-behzadazadi2693.fandogh.cloud/static/img/github.png"> </a>
-            <a href='https://wa.me/+989032627632'> <img style='width:10%; height:100%' src="https://personal-behzadazadi2693.fandogh.cloud/static/img/whatsapp.png"> </a>
-            <a href='tel:+989032627632'> <img style='width:10%; height:10%' src="https://personal-behzadazadi2693.fandogh.cloud/static/img/phone.png"> </a>
-            <a href=''> <img style='width:10%; height:10%' src="https://personal-behzadazadi2693.fandogh.cloud/static/img/insta.png"> </a>
-            <a href='https://telegram.me/behzad_azadi2693'> <img style='width:10%; height:10%' src="https://personal-behzadazadi2693.fandogh.cloud/static/img/telegram.png"> </a>
+            <a href='mailto:behzad.azadi2693@gmail.com'> <img style='width:10%; height:10%' src="https://github.com/behzad-azadi2693/django_personal_portfolio/blob/main/assets/img/email.png"> </a>
+            <a href='https://github.com/behzad-azadi2693/'> <img style='width:10%; height:10%' src="https://github.com/behzad-azadi2693/django_personal_portfolio/blob/main/assets/img/github.png"> </a>
+            <a href='https://wa.me/+989032627632'> <img style='width:10%; height:100%' src="https://github.com/behzad-azadi2693/django_personal_portfolio/blob/main/assets/img/whatsapp.png"> </a>
+            <a href='tel:+989032627632'> <img style='width:10%; height:10%' src="https://github.com/behzad-azadi2693/django_personal_portfolio/blob/main/assets/img/phone.png"> </a>
+            <a href=''> <img style='width:10%; height:10%' src="https://github.com/behzad-azadi2693/django_personal_portfolio/blob/main/assets/img/insta.png"> </a>
+            <a href='https://telegram.me/behzad_azadi2693'> <img style='width:10%; height:10%' src="https://github.com/behzad-azadi2693/django_personal_portfolio/blob/main/assets/img/telegram.png"> </a>
         </div>
 </div>
 <hr>
 <h2>my field of study:</h2>
 <div class="row">
-    <img style='width:7%; height:10%' src="https://personal-behzadazadi2693.fandogh.cloud/static/img/python.png">
-    <img style='width:7%; height:10%' src="https://personal-behzadazadi2693.fandogh.cloud/static/img/django.png">
-    <img style='width:7%; height:10%' src="https://personal-behzadazadi2693.fandogh.cloud/static/img/drf.png">
-    <img style='width:7%; height:10%' src="https://personal-behzadazadi2693.fandogh.cloud/static/img/docker.png">
-    <img style='width:7%; height:10%' src="https://personal-behzadazadi2693.fandogh.cloud/static/img/postgres.png">
-    <img style='width:7%; height:10%' src="https://personal-behzadazadi2693.fandogh.cloud/static/img/redis.png">
-    <img style='width:7%; height:10%' src="https://personal-behzadazadi2693.fandogh.cloud/static/img/mongo.png">
-    <img style='width:7%; height:10%' src="https://personal-behzadazadi2693.fandogh.cloud/static/img/ubuntu.png">
-    <img style='width:7%; height:10%' src="https://personal-behzadazadi2693.fandogh.cloud/static/img/devops.png">
-    <img style='width:7%; height:10%' src="https://personal-behzadazadi2693.fandogh.cloud/static/img/scrume.png">
-    <img style='width:7%; height:10%' src="https://personal-behzadazadi2693.fandogh.cloud/static/img/nginx.png">
-    <img style='width:7%; height:10%' src="https://personal-behzadazadi2693.fandogh.cloud/static/img/git.png">
-    <img style='width:7%; height:10%' src="https://personal-behzadazadi2693.fandogh.cloud/static/img/celery.png">
+    <img style='width:7%; height:10%' src="https://github.com/behzad-azadi2693/django_personal_portfolio/blob/main/assets/img/python.png">
+    <img style='width:7%; height:10%' src="https://github.com/behzad-azadi2693/django_personal_portfolio/blob/main/assets/img/django.png">
+    <img style='width:7%; height:10%' src="https://github.com/behzad-azadi2693/django_personal_portfolio/blob/main/assets/img/drf.png">
+    <img style='width:7%; height:10%' src="https://github.com/behzad-azadi2693/django_personal_portfolio/blob/main/assets/img/docker.png">
+    <img style='width:7%; height:10%' src="https://github.com/behzad-azadi2693/django_personal_portfolio/blob/main/assets/img/postgres.png">
+    <img style='width:7%; height:10%' src="https://github.com/behzad-azadi2693/django_personal_portfolio/blob/main/assets/img/redis.png">
+    <img style='width:7%; height:10%' src="https://github.com/behzad-azadi2693/django_personal_portfolio/blob/main/assets/img/mongo.png">
+    <img style='width:7%; height:10%' src="https://github.com/behzad-azadi2693/django_personal_portfolio/blob/main/assets/img/ubuntu.png">
+    <img style='width:7%; height:10%' src="https://github.com/behzad-azadi2693/django_personal_portfolio/blob/main/assets/img/devops.png">
+    <img style='width:7%; height:10%' src="https://github.com/behzad-azadi2693/django_personal_portfolio/blob/main/assets/img/scrume.png">
+    <img style='width:7%; height:10%' src="https://github.com/behzad-azadi2693/django_personal_portfolio/blob/main/assets/img/nginx.png">
+    <img style='width:7%; height:10%' src="https://github.com/behzad-azadi2693/django_personal_portfolio/blob/main/assets/img/git.png">
     <img style='width:7%; height:10%' src="https://github.com/behzad-azadi2693/django_personal_portfolio/blob/main/assets/img/celery.png">
 
 </div>
