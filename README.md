@@ -36,5 +36,6 @@
         <img style="height:40px; border-radius: .4em;" src="https://github.com/behzad-azadi2693/django_personal_portfolio/blob/main/assets/new/nginx.png" >
     </div>
 </div>
+***
 <h1><a href="https://github.com/behzad-azadi2693/django_personal_portfolio/raw/main/assets/file/behzad_azadi.pdf" download>📋 download resume </a></h1>
 
