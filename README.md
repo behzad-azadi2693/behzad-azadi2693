@@ -14,9 +14,7 @@
 </div>
 <hr>
 <h2>my field of study:</h2>
-***
-```
-    <div style="padding: 10px;;">
+<div style="background-color: rgb(0, 0, 0);padding: 10px;;">
     <div style="margin: 20px;">
         <p></p>
         <img style="height:40px; border-radius: .4em;" src="https://github.com/behzad-azadi2693/django_personal_portfolio/blob/main/assets/new/python.png" >
@@ -39,6 +37,5 @@
         <p></p>
         <img style="height:40px; border-radius: .4em;" src="https://github.com/behzad-azadi2693/django_personal_portfolio/blob/main/assets/new/nginx.png" >
     </div>
-    </div>
-```
-***
+</div>
+
