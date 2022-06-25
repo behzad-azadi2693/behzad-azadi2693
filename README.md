@@ -1,6 +1,5 @@
 <h1 style="color:darkblue">Welcom My Name Is Behzad Azadi</h1>
-<h1><a href='https://personal-behzadazadi2693.fandogh.cloud/'>🌐My Resume</a></h1>
-<h3><a href="https://github.com/behzad-azadi2693/django_personal_portfolio/raw/main/assets/file/behzad_azadi.pdf" download>📋 download resume </a></h3>
+<h1><a href="https://github.com/behzad-azadi2693/django_personal_portfolio/raw/main/assets/file/behzad_azadi.pdf" download>📋 download resume </a></h1>
 <div>
     <h3>Ways to communicate with me</h3>
         <div class="row">
@@ -13,8 +12,8 @@
         </div>
 </div>
 <hr>
-<h2>my field of study:</h2>
-<div style="color: rgb(0, 0, 0);padding: 10px;;">
+<h1>My studied fields:</h1>
+<div style="background-color:rgba(0, 0, 0);padding: 10px;;">
     <div style="margin: 20px;">
         <p></p>
         <img style="height:40px; border-radius: .4em;" src="https://github.com/behzad-azadi2693/django_personal_portfolio/blob/main/assets/new/python.png" >
