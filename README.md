@@ -1,4 +1,3 @@
-![My image](https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg.freepik.com%2Ffree-photo%2Fabstract-grunge-decorative-relief-navy-blue-stucco-wall-texture-wide-angle-rough-colored-background_1258-28311.jpg%3Fw%3D2000&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fbackground&tbnid=fJnogo37aL1wXM&vet=12ahUKEwiXsfKWw8n4AhWVt6QKHXHfAc4QMygNegUIARD1AQ..i&docid=bKJ3gdlWTtaNoM&w=2000&h=992&q=image%20background&ved=2ahUKEwiXsfKWw8n4AhWVt6QKHXHfAc4QMygNegUIARD1AQ)
 <h1 style="color:darkblue">Welcom My Name Is Behzad Azadi</h1>
 <div>
         <div class="row">
@@ -11,7 +10,7 @@
 </div>
 <hr>
 <h1>My studied fields:</h1>
-<div style="background-image:rgba(0, 0, 0);padding: 10px;;">
+<div style="background-image:rgba(0, 0, 0);padding: 10px !important">
     <div style="margin: 20px;">
         <p></p>
         <img style="height:40px; border-radius: .4em;" src="https://github.com/behzad-azadi2693/django_personal_portfolio/blob/main/assets/new/python.png" >
