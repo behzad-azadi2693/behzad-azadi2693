@@ -14,20 +14,28 @@
 </div>
 <hr>
 <h2>my field of study:</h2>
-<div class="row">
-    <img style='width:7%; height:10%' src="https://github.com/behzad-azadi2693/django_personal_portfolio/blob/main/assets/img/python.png">
-    <img style='width:7%; height:10%' src="https://github.com/behzad-azadi2693/django_personal_portfolio/blob/main/assets/img/django.png">
-    <img style='width:7%; height:10%' src="https://github.com/behzad-azadi2693/django_personal_portfolio/blob/main/assets/img/drf.png">
-    <img style='width:7%; height:10%' src="https://github.com/behzad-azadi2693/django_personal_portfolio/blob/main/assets/img/fastapi.png">
-    <img style='width:7%; height:10%' src="https://github.com/behzad-azadi2693/django_personal_portfolio/blob/main/assets/img/docker.png">
-    <img style='width:7%; height:10%' src="https://github.com/behzad-azadi2693/django_personal_portfolio/blob/main/assets/img/postgres.png">
-    <img style='width:7%; height:10%' src="https://github.com/behzad-azadi2693/django_personal_portfolio/blob/main/assets/img/redis.png">
-    <img style='width:7%; height:10%' src="https://github.com/behzad-azadi2693/django_personal_portfolio/blob/main/assets/img/mongo.png">
-    <img style='width:7%; height:10%' src="https://github.com/behzad-azadi2693/django_personal_portfolio/blob/main/assets/img/ubuntu.png">
-    <img style='width:7%; height:10%' src="https://github.com/behzad-azadi2693/django_personal_portfolio/blob/main/assets/img/devops.png">
-    <img style='width:7%; height:10%' src="https://github.com/behzad-azadi2693/django_personal_portfolio/blob/main/assets/img/scrume.png">
-    <img style='width:7%; height:10%' src="https://github.com/behzad-azadi2693/django_personal_portfolio/blob/main/assets/img/nginx.png">
-    <img style='width:7%; height:10%' src="https://github.com/behzad-azadi2693/django_personal_portfolio/blob/main/assets/img/git.png">
-    <img style='width:7%; height:10%' src="https://github.com/behzad-azadi2693/django_personal_portfolio/blob/main/assets/img/celery.png">
-
+<div style="background-color: rgb(0, 0, 0); padding: 10px;;">
+    <div style="margin: 20px;">
+        <p></p>
+        <img style="height:40px; border-radius: .4em;" src="https://github.com/behzad-azadi2693/django_personal_portfolio/blob/main/assets/new/python.png" >
+        <img style="height:40px; border-radius: .4em;" src="https://github.com/behzad-azadi2693/django_personal_portfolio/blob/main/assets/new/django.png" >
+        <img style="height:40px; border-radius: .4em;" src="https://github.com/behzad-azadi2693/django_personal_portfolio/blob/main/assets/new/drf.png" >
+        <img style="height:40px; border-radius: .4em;" src="https://github.com/behzad-azadi2693/django_personal_portfolio/blob/main/assets/new/fastapi.png" >
+        <p></p>
+        <img style="height:40px; border-radius: .4em;" src="https://github.com/behzad-azadi2693/django_personal_portfolio/blob/main/assets/new/postgres.png" >
+        <img style="height:40px; border-radius: .4em;" src="https://github.com/behzad-azadi2693/django_personal_portfolio/blob/main/assets/new/mongo.png" >
+        <img style="height:40px; border-radius: .4em;" src="https://github.com/behzad-azadi2693/django_personal_portfolio/blob/main/assets/new/redis.png" >
+        <p></p>
+        <img style="height:40px; border-radius: .4em;" src="https://github.com/behzad-azadi2693/django_personal_portfolio/blob/main/assets/new/linux.png" >
+        <img style="height:40px; border-radius: .4em;" src="https://github.com/behzad-azadi2693/django_personal_portfolio/blob/main/assets/new/bash.png" >
+        <img style="height:40px; border-radius: .4em;" src="https://github.com/behzad-azadi2693/django_personal_portfolio/blob/main/assets/new/docker.png" >
+        <p></p>
+        <img style="height:40px; border-radius: .4em;" src="https://github.com/behzad-azadi2693/django_personal_portfolio/blob/main/assets/new/devops.png" >
+        <img style="height:40px; border-radius: .4em;" src="https://github.com/behzad-azadi2693/django_personal_portfolio/blob/main/assets/new/scrum.png" >
+        <p></p>
+        <img style="height:40px; border-radius: .4em;" src="https://github.com/behzad-azadi2693/django_personal_portfolio/blob/main/assets/new/git.png" >
+        <p></p>
+        <img style="height:40px; border-radius: .4em;" src="https://github.com/behzad-azadi2693/django_personal_portfolio/blob/main/assets/new/nginx.png" >
+    </div>
 </div>
+
