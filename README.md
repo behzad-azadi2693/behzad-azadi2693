@@ -1,5 +1,4 @@
 <h1 style="color:darkblue">Welcom My Name Is Behzad Azadi</h1>
-<h1><a href="https://github.com/behzad-azadi2693/django_personal_portfolio/raw/main/assets/file/behzad_azadi.pdf" download>📋 download resume </a></h1>
 <div>
     <h3>Ways to communicate with me</h3>
         <div class="row">
@@ -37,4 +36,5 @@
         <img style="height:40px; border-radius: .4em;" src="https://github.com/behzad-azadi2693/django_personal_portfolio/blob/main/assets/new/nginx.png" >
     </div>
 </div>
+<h1><a href="https://github.com/behzad-azadi2693/django_personal_portfolio/raw/main/assets/file/behzad_azadi.pdf" download>📋 download resume </a></h1>
 
