@@ -5,7 +5,7 @@
             <a href='https://github.com/behzad-azadi2693/'> <img style='width:5%; height:5%' src="https://github.com/behzad-azadi2693/behzad-azadi2693/blob/main/img/github.png"> </a>
             <a href='https://wa.me/+989032627632'> <img style='width:5%; height:5%' src="https://github.com/behzad-azadi2693/behzad-azadi2693/blob/main/img/whatsapp.png"> </a>
             <a href='https://telegram.me/behzad_azadi2693'> <img style='width:5%; height:5%' src="https://github.com/behzad-azadi2693/behzad-azadi2693/blob/main/img/telegram.png"> </a>
-                <a href="https://github.com/behzad-azadi2693/behzad-azadi2693/blob/main/img/resume-behzad-azadi.pdf" download> <img style='width:10%; height:10%' src="https://github.com/behzad-azadi2693/behzad-azadi2693/blob/main/img/resume.png"> </a>
+                <a href="https://github.com/behzad-azadi2693/behzad-azadi2693/raw/main/img/resume-behzad-azadi.pdf" download> <img style='width:10%; height:10%' src="https://github.com/behzad-azadi2693/behzad-azadi2693/blob/main/img/resume.png"> </a>
         </div>
 </div>
 <hr>
