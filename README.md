@@ -1,10 +1,11 @@
 <h1 style="color:darkblue">Welcom My Name Is Behzad Azadi</h1>
 <div>
         <div class="row">
-            <a href='mailto:behzad.azadi2693@gmail.com'> <img style='width:5%; height:5%' src="https://github.com/behzad-azadi2693/behzad-azadi2693/blob/main/img/email.png"> </a>
-            <a href='https://github.com/behzad-azadi2693/'> <img style='width:5%; height:5%' src="https://github.com/behzad-azadi2693/behzad-azadi2693/blob/main/img/github.png"> </a>
-            <a href='https://wa.me/+989032627632'> <img style='width:5%; height:5%' src="https://github.com/behzad-azadi2693/behzad-azadi2693/blob/main/img/whatsapp.png"> </a>
-            <a href='https://telegram.me/behzad_azadi2693'> <img style='width:5%; height:5%' src="https://github.com/behzad-azadi2693/behzad-azadi2693/blob/main/img/telegram.png"> </a>
+            <a href='mailto:behzad.azadi2693@gmail.com'><img style="height:40px; border-radius: .4em;" src="https://github.com/behzad-azadi2693/behzad-azadi2693/blob/main/img/email.png" ></a>
+            <a href='https://wa.me/+989032627632'><img style="height:40px; border-radius: .4em;" src="https://github.com/behzad-azadi2693/behzad-azadi2693/blob/main/img/whatsapp.png" ></a>
+            <a href='https://telegram.me/behzad_azadi2693'><img style="height:40px; border-radius: .4em;" src="https://github.com/behzad-azadi2693/behzad-azadi2693/blob/main/img/telegram.png" ></a>
+            
+            
                 <a href="https://github.com/behzad-azadi2693/behzad-azadi2693/raw/main/img/resume_behzad_azadi.pdf" download> <img style='width:10%; height:10%' src="https://github.com/behzad-azadi2693/behzad-azadi2693/blob/main/img/resume.png"> </a>
         </div>
 </div>
