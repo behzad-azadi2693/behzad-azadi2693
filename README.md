@@ -4,7 +4,7 @@
             <a href='mailto:behzad.azadi2693@gmail.com'><img style="height:40px; border-radius: .4em;" src="https://github.com/behzad-azadi2693/behzad-azadi2693/blob/main/img/email.png" ></a>
             <a href='https://wa.me/+989032627632'><img style="height:40px; border-radius: .4em;" src="https://github.com/behzad-azadi2693/behzad-azadi2693/blob/main/img/whatsapp.png" ></a>
             <a href='https://telegram.me/behzad_azadi2693'><img style="height:40px; border-radius: .4em;" src="https://github.com/behzad-azadi2693/behzad-azadi2693/blob/main/img/telegram.png" ></a>
-                <a href="https://github.com/behzad-azadi2693/behzad-azadi2693/raw/main/img/resume_behzad_azadi.pdf" download> <img style='width:10%; height:10%' src="https://github.com/behzad-azadi2693/behzad-azadi2693/blob/main/img/resume.png"> </a>
+                <a href="https://jobinja.ir/user/MQ-4274691"> <img style='width:10%; height:10%' src="https://github.com/behzad-azadi2693/behzad-azadi2693/blob/main/img/resume.png"> </a>
         </div>
 </div>
 <hr>
