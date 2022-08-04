@@ -1,38 +1,65 @@
 <h1 style="color:darkblue">Welcom My Name Is Behzad Azadi</h1>
 <div>
-        <div class="row">
-            <a href='mailto:behzad.azadi2693@gmail.com'><img style="height:40px; border-radius: .4em;" src="https://github.com/behzad-azadi2693/behzad-azadi2693/blob/main/img/email.png" ></a>
-            <a href='https://wa.me/+989032627632'><img style="height:40px; border-radius: .4em;" src="https://github.com/behzad-azadi2693/behzad-azadi2693/blob/main/img/whatsapp.png" ></a>
-            <a href='https://telegram.me/behzad_azadi2693'><img style="height:40px; border-radius: .4em;" src="https://github.com/behzad-azadi2693/behzad-azadi2693/blob/main/img/telegram.png" ></a>
-                <a href="https://jobinja.ir/user/MQ-4274691"> <img style='width:10%; height:10%' src="https://github.com/behzad-azadi2693/behzad-azadi2693/blob/main/img/resume.png"> </a>
-        </div>
-</div>
-<hr>
-<h1>My studied fields:</h1>
-<div style="background-image:rgba(0, 0, 0);padding: 10px !important">
-    <div style="margin: 20px;">
-        <p></p>
-        <img style="height:40px; border-radius: .4em;" src="https://github.com/behzad-azadi2693/behzad-azadi2693/blob/main/img/python.png" >
-        <img style="height:40px; border-radius: .4em;" src="https://github.com/behzad-azadi2693/behzad-azadi2693/blob/main/img/django.png" >
-        <img style="height:40px; border-radius: .4em;" src="https://github.com/behzad-azadi2693/behzad-azadi2693/blob/main/img/drf.png" >
-        <img style="height:40px; border-radius: .4em;" src="https://github.com/behzad-azadi2693/behzad-azadi2693/blob/main/img/fastapi.png" >
-        <p></p>
-        <img style="height:40px; border-radius: .4em;" src="https://github.com/behzad-azadi2693/behzad-azadi2693/blob/main/img/postgres.png" >
-        <img style="height:40px; border-radius: .4em;" src="https://github.com/behzad-azadi2693/behzad-azadi2693/blob/main/img/mongo.png" >
-        <img style="height:40px; border-radius: .4em;" src="https://github.com/behzad-azadi2693/behzad-azadi2693/blob/main/img/redis.png" >
-        <p></p>
-        <img style="height:40px; border-radius: .4em;" src="https://github.com/behzad-azadi2693/behzad-azadi2693/blob/main/img/linux.png" >
-        <img style="height:40px; border-radius: .4em;" src="https://github.com/behzad-azadi2693/behzad-azadi2693/blob/main/img/bash.png" >
-        <img style="height:40px; border-radius: .4em;" src="https://github.com/behzad-azadi2693/behzad-azadi2693/blob/main/img/docker.png" >
-        <p></p>
-        <img style="height:40px; border-radius: .4em;" src="https://github.com/behzad-azadi2693/behzad-azadi2693/blob/main/img/devops.png" >
-        <img style="height:40px; border-radius: .4em;" src="https://github.com/behzad-azadi2693/behzad-azadi2693/blob/main/img/scrum.png" >
-        <p></p>
-        <img style="height:40px; border-radius: .4em;" src="https://github.com/behzad-azadi2693/behzad-azadi2693/blob/main/img/git.png" >
-        <p></p>
-        <img style="height:40px; border-radius: .4em;" src="https://github.com/behzad-azadi2693/behzad-azadi2693/blob/main/img/nginx.png" >
-    <p></p>
-        <img style="height:40px; border-radius: .4em;" src="https://github.com/behzad-azadi2693/behzad-azadi2693/blob/main/img/microservices.png" >
-        <img style="height:40px; border-radius: .4em;" src="https://github.com/behzad-azadi2693/behzad-azadi2693/blob/main/img/elasticsearch.png" >
+    <div class="row">
+        <a href='mailto:behzad.azadi2693@gmail.com'>
+            <img alt="Discord" src="https://img.shields.io/badge/GMAIL-ab373c.svg?style=for-the-badge&logo=gmail&logoColor=orange">
+        </a>
+        <a href='https://wa.me/+989032627632'>
+            <img alt="Discord" src="https://img.shields.io/badge/TELEGRAM-dcf3dc.svg?style=for-the-badge&logo=telegram&logoColor=orange">
+        </a>
+        <a href='https://telegram.me/behzad_azadi2693'>
+            <img alt="Discord" src="https://img.shields.io/badge/WHATSAPP-3cab37.svg?style=for-the-badge&logo=whatsapp&logoColor=green">
+        </a>
+        <a href="https://jobinja.ir/user/MQ-4274691"> 
+            <img  style="height:40px;" alt="Discord" src="https://img.shields.io/badge/my resume-305e8c.svg?style=for-the-badge&logo=resume&logoColor=green">
+        </a>
     </div>
 </div>
+<hr>
+
+<h1>My studied fields:</h1>
+<div>
+    <div style="margin: 20px;">
+    <h3>Back-End:</h3>
+        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Python-030903.svg?style=flat&logo=python&logoColor=yellow">
+        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Django-030903.svg?style=flat&logo=django&logoColor=green">
+        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/FastAPI-030903.svg?style=flat&logo=fastapi&logoColor=green">
+        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/DjangoRestFrameWork-030903.svg?style=flat&logo=django&logoColor=white">
+    <h3>Databases:</h3>
+        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/PostgreSQL-030903.svg?style=flat&logo=postgresql&logoColor=blue">
+        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/MongoDB-030903.svg?style=flat&logo=mongodb&logoColor=green">
+        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Redis-030903.svg?style=plasic&logo=redis&logoColor=red">
+    <h3>Platform:</h3>
+        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Ubuntu-030903.svg?style=flat&logo=ubuntu&logoColor=orange">
+        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Bash%20Script-030903?style=for-the-badge&logo=GNU%20Bash&logoColor=white">
+        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Docker-030903.svg?style=plasic&logo=docker&logoColor=green">
+    <h3>version control:</h3>
+        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Git-030903.svg?style=plasic&logo=git&logoColor=orange">
+    <h3>web server:</h3>
+        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Nginx-030903.svg?style=plasic&logo=nginx&logoColor=green">
+    <h3>search engine:</h3>
+        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/ElasticSearch-030903.svg?style=plasic&logo=elasticsearch&logoColor=white">
+    <h3>methodology:</h3>
+        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Microservices-030903.svg?style=plasic&logo=microservices&logoColor=aqua">
+        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/DevOps-030903.svg?style=flat&logo=devops&logoColor=orange">
+        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Scrum-030903.svg?style=flat&logo=scrum&logoColor=orange">
+        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/agile-030903.svg?style=plasic&logo=agile&logoColor=blue">
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
