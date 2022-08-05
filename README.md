@@ -1,3 +1,4 @@
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/d2885bbafb7caffbbec035db23c8cb02c1fb1c09230ed463fea937a82f400c8d/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d53616661536166617269"><img src="https://camo.githubusercontent.com/d2885bbafb7caffbbec035db23c8cb02c1fb1c09230ed463fea937a82f400c8d/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d53616661536166617269" alt="" data-canonical-src="https://komarev.com/ghpvc/?username=behzad-azadi2693" style="max-width: 100%;"></a></p>
 <p>
     <img src='https://github-readme-stats.vercel.app/api?username=behzad-azadi2693&show_icons=true&theme=gotham'>
 </p>
