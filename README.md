@@ -1,4 +1,4 @@
-<h1 style="color:darkblue">find me here</h1>
+<h2>find me here</h2>
 <div>
     <div class="row">
         <a href='mailto:behzad.azadi2693@gmail.com'>
