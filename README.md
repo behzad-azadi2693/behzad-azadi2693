@@ -16,9 +16,8 @@
     </div>
 </div>
 <hr>
-
-<h1>My studied fields:</h1>
 <div>
+    <h1>My studied fields:</h1>
     <div style="margin: 20px;">
     <h3>Back-End:</h3>
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Python-030903.svg?style=flat&logo=python&logoColor=yellow">
