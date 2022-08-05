@@ -1,4 +1,3 @@
-<p dir="auto"><img src="https://komarev.com/ghpvc/?username=behzad-azadi2693" ></p>
 <p>
     <img src='https://github-readme-stats.vercel.app/api?username=behzad-azadi2693&show_icons=true&theme=gotham'>
 </p>
