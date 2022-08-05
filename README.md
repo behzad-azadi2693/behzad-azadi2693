@@ -1,4 +1,4 @@
-<h2>find me here</h2>
+<h3>find me here</h3>
 <div>
     <div class="row">
         <a href='mailto:behzad.azadi2693@gmail.com'>
@@ -18,7 +18,7 @@
 <hr>
 <div>
     <div style="margin: 20px;">
-    <h1>My studied fields</h1>
+    <h3>My studied fields</h3>
     <h3>Back-End:</h3>
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Python-030903.svg?style=flat&logo=python&logoColor=yellow">
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Django-030903.svg?style=flat&logo=django&logoColor=green">
