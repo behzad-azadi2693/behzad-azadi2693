@@ -1,3 +1,6 @@
+<p>
+    <a href='https://github-readme-stats.vercel.app/api?username=behzad-azadi2693&show_icons=true&theme=gotham'></a>
+</p>
 <h3>find me here</h3>
 <div>
     <div class="row">
