@@ -36,7 +36,7 @@
     <h3>Platform:</h3>
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Linux-030903.svg?style=flat&logo=linux&logoColor=white">
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Bash%20Script-030903?style=for-the-badge&logo=GNU%20Bash&logoColor=white">
-        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Docker-030903.svg?style=plasic&logo=docker&logoColor=green">
+        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Docker-030903.svg?style=plasic&logo=docker&logoColor=blue">
     <h3>version control:</h3>
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Git-030903.svg?style=plasic&logo=git&logoColor=orange">
     <h3>web server:</h3>
