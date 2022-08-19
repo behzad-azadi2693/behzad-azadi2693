@@ -34,7 +34,7 @@
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/MongoDB-030903.svg?style=flat&logo=mongodb&logoColor=green">
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Redis-030903.svg?style=plasic&logo=redis&logoColor=red">
     <h3>Platform:</h3>
-        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Linux-030903.svg?style=flat&logo=linux&logoColor=orange">
+        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Linux-030903.svg?style=flat&logo=linux&logoColor=white">
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Bash%20Script-030903?style=for-the-badge&logo=GNU%20Bash&logoColor=white">
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Docker-030903.svg?style=plasic&logo=docker&logoColor=green">
     <h3>version control:</h3>
@@ -46,7 +46,6 @@
     <h3>methodology:</h3>
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Microservices-030903.svg?style=plasic&logo=microservices&logoColor=aqua">
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/DevOps-030903.svg?style=flat&logo=devops&logoColor=orange">
-        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Haystack-030903.svg?style=flat&logo=haystack&logoColor=orange">
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Scrum-030903.svg?style=flat&logo=scrum&logoColor=orange">
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Agile-030903.svg?style=plasic&logo=agile&logoColor=blue">
     </div>
