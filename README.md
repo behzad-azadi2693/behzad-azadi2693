@@ -49,11 +49,10 @@
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/DevOps-030903.svg?style=flat&logo=devops&logoColor=orange">
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Scrum-030903.svg?style=flat&logo=scrum&logoColor=orange">
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Agile-030903.svg?style=plasic&logo=agile&logoColor=blue">
+    <h4>Other:</h4>
+        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/UnitTest-030903.svg?style=plasic&logo=unittest&logoColor=aqua">
     </div>
 </div>
-
-
-
 
 
 
