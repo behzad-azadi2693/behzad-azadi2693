@@ -39,8 +39,9 @@
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Docker-030903.svg?style=plasic&logo=docker&logoColor=blue">
     <h3>version control:</h3>
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Git-030903.svg?style=plasic&logo=git&logoColor=orange">
-    <h3>web server:</h3>
+    <h3>web server & ...:</h3>
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Nginx-030903.svg?style=plasic&logo=nginx&logoColor=green">
+        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Uwsgi-030903.svg?style=plasic&logo=Uwsgi&logoColor=green">
     <h3>search engine:</h3>
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/ElasticSearch-030903.svg?style=plasic&logo=elasticsearch&logoColor=white">
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Haystack-030903.svg?style=plasic&logo=haystack&logoColor=white">
