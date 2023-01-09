@@ -2,6 +2,7 @@
 <p>
     <img src='https://github-readme-stats.vercel.app/api?username=behzad-azadi2693&show_icons=true&theme=gotham'>
 </p>
+<!--
 <h3>find me here</h3>
 <div>
     <div class="row">
@@ -19,6 +20,7 @@
         </a>
     </div>
 </div>
+-->
 <hr>
 <div>
     <div style="margin: 20px;">
