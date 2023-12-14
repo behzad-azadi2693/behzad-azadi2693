@@ -2,24 +2,26 @@
 <p>
     <img src='https://github-readme-stats.vercel.app/api?username=behzad-azadi2693&show_icons=true&theme=gotham'>
 </p>
-<!--
 <h3>find me here</h3>
 <div>
     <div class="row">
         <a href='mailto:behzad.azadi2693@gmail.com'>
             <img alt="Discord" src="https://img.shields.io/badge/GMAIL-ab373c.svg?style=for-the-badge&logo=gmail&logoColor=orange">
         </a>
-        <a href='https://wa.me/+989032627632'>
-            <img alt="Discord" src="https://img.shields.io/badge/TELEGRAM-dcf3dc.svg?style=for-the-badge&logo=telegram&logoColor=orange">
-        </a>
-        <a href='https://telegram.me/behzad_azadi2693'>
+
+        <a href='https://telegram.me/behzad_azadi'>
             <img alt="Discord" src="https://img.shields.io/badge/WHATSAPP-3cab37.svg?style=for-the-badge&logo=whatsapp&logoColor=green">
         </a>
-        <a href="https://jobinja.ir/user/MQ-4274691"> 
-            <img  style="height:40px;" alt="Discord" src="https://img.shields.io/badge/my resume-305e8c.svg?style=for-the-badge&logo=resume&logoColor=green">
+
         </a>
     </div>
 </div>
+<!--
+        <a href='https://wa.me/+989032627632'>
+            <img alt="Discord" src="https://img.shields.io/badge/TELEGRAM-dcf3dc.svg?style=for-the-badge&logo=telegram&logoColor=orange">
+        </a>
+        <a href="https://jobinja.ir/user/MQ-4274691"> 
+            <img  style="height:40px;" alt="Discord" src="https://img.shields.io/badge/my resume-305e8c.svg?style=for-the-badge&logo=resume&logoColor=green">
 -->
 <hr>
 <div>
