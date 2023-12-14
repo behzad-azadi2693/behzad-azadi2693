@@ -8,11 +8,8 @@
         <a href='mailto:behzad.azadi2693@gmail.com'>
             <img alt="Discord" src="https://img.shields.io/badge/GMAIL-ab373c.svg?style=for-the-badge&logo=gmail&logoColor=orange">
         </a>
-
         <a href='https://telegram.me/behzad_azadi'>
             <img alt="Discord" src="https://img.shields.io/badge/WHATSAPP-3cab37.svg?style=for-the-badge&logo=whatsapp&logoColor=green">
-        </a>
-
         </a>
     </div>
 </div>
@@ -22,6 +19,7 @@
         </a>
         <a href="https://jobinja.ir/user/MQ-4274691"> 
             <img  style="height:40px;" alt="Discord" src="https://img.shields.io/badge/my resume-305e8c.svg?style=for-the-badge&logo=resume&logoColor=green">
+                    </a>
 -->
 <hr>
 <div>
