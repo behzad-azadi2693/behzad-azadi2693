@@ -61,7 +61,7 @@
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Ansible-030903.svg?style=plasic&logo=Ansible&logoColor=aqua">
     <br>
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/grafana-030903.svg?style=plasic&logo=grafana&logoColor=orange">
-        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/gis-030903.svg?style=plasic&logo=gis&logoColor=green">
+        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/GIS|OSM|geodjango|postgis-030903.svg?style=plasic&logo=gis&logoColor=green">
     </div>
 </div>
 
