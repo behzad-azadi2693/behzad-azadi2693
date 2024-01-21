@@ -58,6 +58,8 @@
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/UnitTest-030903.svg?style=plasic&logo=unittest&logoColor=aqua">
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Kubernetes-030903.svg?style=plasic&logo=Kubernetes&logoColor=aqua">
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Ansible-030903.svg?style=plasic&logo=Ansible&logoColor=aqua">
+    <br>
+        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/grafana-030903.svg?style=plasic&logo=grafana&logoColor=aqua">
     </div>
 </div>
 
