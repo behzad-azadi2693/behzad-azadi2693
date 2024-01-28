@@ -24,48 +24,59 @@
 <hr>
 <div>
     <div style="margin: 20px;">
-    <h3>My Skills</h3>
+    <h4>Backend Skills</h4>
     <br>
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Python-030903.svg?style=flat&logo=python&logoColor=yellow">
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Django-030903.svg?style=flat&logo=django&logoColor=green">
+        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/UnitTest-030903.svg?style=plasic&logo=unittest&logoColor=aqua">
+    <br>
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/FastAPI-030903.svg?style=flat&logo=fastapi&logoColor=green">
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/DjangoRestFrameWork-030903.svg?style=flat&logo=django&logoColor=white">
+    <br>
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Celery-030903.svg?style=flat&logo=celery&logoColor=green">
-    <br>
-        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/PostgreSQL-030903.svg?style=flat&logo=postgresql&logoColor=blue">
-        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/MongoDB-030903.svg?style=flat&logo=mongodb&logoColor=green">
-        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Redis-030903.svg?style=plasic&logo=redis&logoColor=red">
-    <br>
-        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/ubuntu-030903.svg?style=flat&logo=Ubuntu&logoColor=orange">
-        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Bash%20Script-030903?style=for-the-badge&logo=GNU%20Bash&logoColor=white">
-        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Docker-030903.svg?style=plasic&logo=docker&logoColor=blue">
-    <br>
-        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Git-030903.svg?style=plasic&logo=git&logoColor=orange">
-        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Github-030903.svg?style=plasic&logo=GitHub&logoColor=orange">
-        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Gitlab-030903.svg?style=plasic&logo=GitLab&logoColor=orange">
-        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Gitlab-ci-030903.svg?style=plasic&logo=GitLab&logoColor=orange">
-    <br>
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Nginx-030903.svg?style=plasic&logo=nginx&logoColor=green">
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Uwsgi-030903.svg?style=plasic&logo=Uwsgi&logoColor=green">
     <br>
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/ElasticSearch-030903.svg?style=plasic&logo=elasticsearch&logoColor=white">
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Haystack-030903.svg?style=plasic&logo=haystack&logoColor=white">
-    <br>
+    <br><br>
+        <h4>DB Skills</h4>
+        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/PostgreSQL-030903.svg?style=flat&logo=postgresql&logoColor=blue">
+        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/MongoDB-030903.svg?style=flat&logo=mongodb&logoColor=green">
+        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Redis-030903.svg?style=plasic&logo=redis&logoColor=red">
+    <br><br>
+        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/linux-030903.svg?style=flat&logo=Linux&logoColor=orange">
+        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Bash%20Script-030903?style=for-the-badge&logo=GNU%20Bash&logoColor=white">
+        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Docker-030903.svg?style=plasic&logo=docker&logoColor=blue">
+    <br><br>
+        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Git-030903.svg?style=plasic&logo=git&logoColor=orange">
+        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Github-030903.svg?style=plasic&logo=GitHub&logoColor=orange">
+        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Gitlab-030903.svg?style=plasic&logo=GitLab&logoColor=orange">
+        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Gitlab-ci-030903.svg?style=plasic&logo=GitLab&logoColor=orange">
+    <br><br>
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Microservices-030903.svg?style=plasic&logo=microservices&logoColor=aqua">
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/DevOps-030903.svg?style=flat&logo=devops&logoColor=orange">
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Scrum-030903.svg?style=flat&logo=scrum&logoColor=orange">
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Agile-030903.svg?style=plasic&logo=agile&logoColor=blue">
-    <br>
-        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/UnitTest-030903.svg?style=plasic&logo=unittest&logoColor=aqua">
+    <br><br>
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Kubernetes-030903.svg?style=plasic&logo=Kubernetes&logoColor=aqua">
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Ansible-030903.svg?style=plasic&logo=Ansible&logoColor=aqua">
-    <br>
+    <br><br>
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/grafana-030903.svg?style=plasic&logo=grafana&logoColor=orange">
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/loki | influxdb | telegraf | prometheus-030903.svg?style=plasic&logo=&logoColor=green">
-    <br>
-        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/GIS | OSM | geodjango | postgis-030903.svg?style=plasic&logo=gis&logoColor=green">
-    <br>
-        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/AI | ML | DL | ANNs-030903.svg?style=plasic&logo=ai&logoColor=green">
+    <br><br>
+        <h4>GIS Skills</h4>
+        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/GIS-030903.svg?style=plasic&logo=gis&logoColor=green">
+        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/OSM-030903.svg?style=plasic&logo=gis&logoColor=green">
+        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/geodjango-030903.svg?style=plasic&logo=gis&logoColor=green">
+        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/postgis-030903.svg?style=plasic&logo=gis&logoColor=green">
+    <br><br>
+        <h4>AL Skills</h4>
+        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/AI-030903.svg?style=plasic&logo=ai&logoColor=green">
+        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/ML-030903.svg?style=plasic&logo=ai&logoColor=green">
+        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/DL-030903.svg?style=plasic&logo=ai&logoColor=green">
+        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/ANNs-030903.svg?style=plasic&logo=ai&logoColor=green">
+        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/NLP-030903.svg?style=plasic&logo=ai&logoColor=green">
     </div>
 </div>
 
