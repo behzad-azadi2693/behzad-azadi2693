@@ -64,6 +64,8 @@
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/loki | influxdb | telegraf | prometheus-030903.svg?style=plasic&logo=&logoColor=green">
     <br>
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/GIS | OSM | geodjango | postgis-030903.svg?style=plasic&logo=gis&logoColor=green">
+    <br>
+        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/AI | ML | DL | ANNs-030903.svg?style=plasic&logo=ai&logoColor=green">
     </div>
 </div>
 
