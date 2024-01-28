@@ -45,12 +45,12 @@
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Redis-030903.svg?style=plasic&logo=redis&logoColor=red">
     <br><br>
         <h4>DevOps Skills</h4>
-        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/linux-030903.svg?style=flat&logo=Linux&logoColor=orange">
+        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/linux-030903.svg?style=flat&logo=Linux&logoColor=white">
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Bash%20Script-030903?style=for-the-badge&logo=GNU%20Bash&logoColor=white">
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Docker-030903.svg?style=plasic&logo=docker&logoColor=blue">
     <br>
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Git-030903.svg?style=plasic&logo=git&logoColor=orange">
-        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Github-030903.svg?style=plasic&logo=GitHub&logoColor=orange">
+        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Github-030903.svg?style=plasic&logo=GitHub&logoColor=white">
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Gitlab-030903.svg?style=plasic&logo=GitLab&logoColor=orange">
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Gitlab-ci-030903.svg?style=plasic&logo=GitLab&logoColor=orange">
     <br>
@@ -58,7 +58,10 @@
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Ansible-030903.svg?style=plasic&logo=Ansible&logoColor=aqua">
     <br>
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/grafana-030903.svg?style=plasic&logo=grafana&logoColor=orange">
-        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/loki | influxdb | telegraf | prometheus-030903.svg?style=plasic&logo=&logoColor=green">
+        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/loki-030903.svg?style=plasic&logo=grafana&logoColor=orange">
+        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/influxdb-030903.svg?style=plasic&logo=influxdb&logoColor=blue">
+        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/telegraf-030903.svg?style=plasic&logo=telegraf&logoColor=blue">
+        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/prometheus-030903.svg?style=plasic&logo=prometheus&logoColor=orange">
     <br><br>
         <h4>GIS Skills</h4>
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/GIS-030903.svg?style=plasic&logo=gis&logoColor=green">
