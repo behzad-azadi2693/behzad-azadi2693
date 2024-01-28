@@ -24,7 +24,7 @@
 <hr>
 <div>
     <div style="margin: 20px;">
-    <h3>My studied fields</h3>
+    <h3>My Skills</h3>
     <br>
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Python-030903.svg?style=flat&logo=python&logoColor=yellow">
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Django-030903.svg?style=flat&logo=django&logoColor=green">
