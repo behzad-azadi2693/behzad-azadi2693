@@ -55,12 +55,12 @@
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Gitlab-ci-030903.svg?style=plasic&logo=GitLab&logoColor=orange">
     <br>
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Kubernetes-030903.svg?style=plasic&logo=Kubernetes&logoColor=aqua">
-        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Ansible-030903.svg?style=plasic&logo=Ansible&logoColor=aqua">
+        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Ansible-030903.svg?style=plasic&logo=Ansible&logoColor=white">
     <br>
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/grafana-030903.svg?style=plasic&logo=grafana&logoColor=orange">
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/loki-030903.svg?style=plasic&logo=grafana&logoColor=orange">
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/influxdb-030903.svg?style=plasic&logo=influxdb&logoColor=blue">
-        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/telegraf-030903.svg?style=plasic&logo=telegraf&logoColor=blue">
+        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/telegraf-030903.svg?style=plasic&logo=influxdb&logoColor=white">
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/prometheus-030903.svg?style=plasic&logo=prometheus&logoColor=orange">
     <br><br>
         <h4>GIS Skills</h4>
