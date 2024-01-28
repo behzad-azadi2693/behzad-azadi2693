@@ -38,12 +38,12 @@
     <br>
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/ElasticSearch-030903.svg?style=plasic&logo=elasticsearch&logoColor=white">
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Haystack-030903.svg?style=plasic&logo=haystack&logoColor=white">
-    <br><br>
+    <br>
         <h4>DB Skills</h4>
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/PostgreSQL-030903.svg?style=flat&logo=postgresql&logoColor=blue">
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/MongoDB-030903.svg?style=flat&logo=mongodb&logoColor=green">
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Redis-030903.svg?style=plasic&logo=redis&logoColor=red">
-    <br><br>
+    <br>
         <h4>DevOps Skills</h4>
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/linux-030903.svg?style=flat&logo=Linux&logoColor=white">
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Bash%20Script-030903?style=for-the-badge&logo=GNU%20Bash&logoColor=white">
@@ -63,20 +63,20 @@
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/influxdb-030903.svg?style=plasic&logo=influxdb&logoColor=blue">
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/telegraf-030903.svg?style=plasic&logo=influxdb&logoColor=white">
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/prometheus-030903.svg?style=plasic&logo=prometheus&logoColor=orange">
-    <br><br>
+    <br>
         <h4>GIS Skills</h4>
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/GIS-030903.svg?style=plasic&logo=gis&logoColor=green">
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/OSM-030903.svg?style=plasic&logo=gis&logoColor=green">
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/geodjango-030903.svg?style=plasic&logo=django&logoColor=green">
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/postgis-030903.svg?style=plasic&logo=postgresql&logoColor=green">
-    <br><br>
+    <br>
         <h4>AI Skills</h4>
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/AI-030903.svg?style=plasic&logo=ai&logoColor=green">
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/ML-030903.svg?style=plasic&logo=ai&logoColor=green">
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/DL-030903.svg?style=plasic&logo=ai&logoColor=green">
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/ANNs-030903.svg?style=plasic&logo=ai&logoColor=green">
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/NLP-030903.svg?style=plasic&logo=ai&logoColor=green">
-    <br><br>
+    <br>
         <h4>...</h4>
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Microservices-030903.svg?style=plasic&logo=microservices&logoColor=aqua">
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Scrum-030903.svg?style=flat&logo=scrum&logoColor=orange">
