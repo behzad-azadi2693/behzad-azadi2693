@@ -48,6 +48,7 @@
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/linux-030903.svg?style=flat&logo=Linux&logoColor=white">
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Bash%20Script-030903?style=for-the-badge&logo=GNU%20Bash&logoColor=white">
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Docker-030903.svg?style=plasic&logo=docker&logoColor=blue">
+        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/DockerCompose-030903.svg?style=plasic&logo=docker&logoColor=orange">
     <br>
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Git-030903.svg?style=plasic&logo=git&logoColor=orange">
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Github-030903.svg?style=plasic&logo=GitHub&logoColor=white">
