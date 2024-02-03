@@ -25,7 +25,7 @@
 <div>
     <div style="margin: 20px;">
     <h4>Backend Skills</h4>
-        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Python-030903.svg?style=flat&logo=python">
+        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Python-030903.svg?style=flat&logo=python&logoColor=yellow">
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Django-030903.svg?style=flat&logo=django&logoColor=green">
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/UnitTest-030903.svg?style=plasic&logo=unittest&logoColor=aqua">
     <br>
@@ -49,7 +49,7 @@
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Redis-030903.svg?style=plasic&logo=redis&logoColor=red">
     <br>
         <h4>DevOps Skills</h4>
-        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/linux-030903.svg?style=flat&logo=Linux&logoColor=white">
+        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/linux-030903.svg?style=flat&logo=Linux">
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Bash%20Script-030903?style=for-the-badge&logo=GNU%20Bash&logoColor=white">
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Docker-030903.svg?style=plasic&logo=docker&logoColor=blue">
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/DockerCompose-030903.svg?style=plasic&logo=docker&logoColor=orange">
