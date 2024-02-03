@@ -67,8 +67,8 @@
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/prometheus-030903.svg?style=plasic&logo=prometheus&logoColor=orange">
     <br>
         <h4>GIS Skills</h4>
-        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/GIS-030903.svg?style=plasic&logo=gis&logoColor=green">
-        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/OSM-030903.svg?style=plasic&logo=gis&logoColor=green">
+        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/GIS-030903.svg?style=plasic&logo=Qgis">
+        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/OSM-030903.svg?style=plasic&logo=openstreetmap">
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/geodjango-030903.svg?style=plasic&logo=django&logoColor=green">
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/postgis-030903.svg?style=plasic&logo=postgresql&logoColor=green">
     <br>
