@@ -16,7 +16,7 @@
         </a>
     </div>
 </div>
-<!--
+<!--https://simpleicons.org/
         <a href='https://wa.me/+989032627632'>
             <img alt="Discord" src="https://img.shields.io/badge/WHATSAPP-3cab37.svg?style=for-the-badge&logo=whatsapp&logoColor=orange">
         </a>
