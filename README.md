@@ -11,6 +11,12 @@
         <a href='https://telegram.me/behzad_azadi'>
             <img alt="Discord" src="https://img.shields.io/badge/TELEGRAM-dcf3dc.svg?style=for-the-badge&logo=telegram&logoColor=blue">
         </a>
+        <a href='https://telegram.me/code_crafters'>
+            <img alt="Discord" src="https://img.shields.io/badge/TELEGRAM-dcf3dc.svg?style=for-the-badge&logo=telegram&logoColor=blue">
+        </a>
+        <a href="https://codecrafters.ir"> 
+            <img alt="Discord" src="https://img.shields.io/badge/Website-305e8c.svg?style=for-the-badge&logo=resume&logoColor=green">
+        </a>
         <a href="https://jobinja.ir/user/MQ-4274691"> 
             <img  style="height:40px;" alt="Discord" src="https://img.shields.io/badge/my resume-305e8c.svg?style=for-the-badge&logo=resume&logoColor=green">
         </a>
