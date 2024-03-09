@@ -12,7 +12,7 @@
             <img alt="Discord" src="https://img.shields.io/badge/TELEGRAM-dcf3dc.svg?style=for-the-badge&logo=telegram&logoColor=blue">
         </a>
         <a href='https://telegram.me/code_crafters'>
-            <img alt="Discord" src="https://img.shields.io/badge/TELEGRAM-dcf3dc.svg?style=for-the-badge&logo=telegram&logoColor=blue">
+            <img alt="Discord" src="https://img.shields.io/badge/TELEGRAM Channel-dcf3dc.svg?style=for-the-badge&logo=telegram&logoColor=blue">
         </a>
         <a href="https://codecrafters.ir"> 
             <img alt="Discord" src="https://img.shields.io/badge/Website-305e8c.svg?style=for-the-badge&logo=resume&logoColor=green">
