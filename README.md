@@ -17,7 +17,7 @@
         <a href="https://codecrafters.ir"> 
             <img alt="Discord" src="https://img.shields.io/badge/Website-305e8c.svg?style=for-the-badge&logo=resume&logoColor=green">
         </a>
-        <a href="https://jobinja.ir/user/MQ-4274691"> 
+        <a href="https://github.com/behzad-azadi2693/behzad-azadi2693/blob/main/img/Behzad%20Azadi.pdf"> 
             <img  style="height:40px;" alt="Discord" src="https://img.shields.io/badge/my resume-305e8c.svg?style=for-the-badge&logo=resume&logoColor=green">
         </a>
     </div>
