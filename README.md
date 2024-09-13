@@ -17,16 +17,18 @@
         <a href="https://codecrafters.ir"> 
             <img alt="Discord" src="https://img.shields.io/badge/Website-305e8c.svg?style=for-the-badge&logo=resume&logoColor=green">
         </a>
+        <a href='https://github.com/behzad-azadi'>
+            <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Another account-030903.svg?style=plasic&logo=GitHub">
+        </a>
+        <a href='https://wa.me/+989032627632'>
+            <img alt="Discord" src="https://img.shields.io/badge/WHATSAPP-3cab37.svg?style=for-the-badge&logo=whatsapp&logoColor=orange">
+        </a>
         <a href="https://github.com/behzad-azadi2693/behzad-azadi2693/blob/main/img/behzad%20azadi.pdf"> 
             <img  style="height:40px;" alt="Discord" src="https://img.shields.io/badge/my resume-305e8c.svg?style=for-the-badge&logo=resume&logoColor=green">
         </a>
     </div>
 </div>
-<!--https://simpleicons.org/
-        <a href='https://wa.me/+989032627632'>
-            <img alt="Discord" src="https://img.shields.io/badge/WHATSAPP-3cab37.svg?style=for-the-badge&logo=whatsapp&logoColor=orange">
-        </a>
--->
+
 <hr>
 <div>
     <div style="margin: 20px;">
