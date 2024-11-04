@@ -71,8 +71,6 @@
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/grafana-030903.svg?style=plasic&logo=grafana&logoColor=orange">
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/loki-030903.svg?style=plasic&logo=grafana&logoColor=orange">
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/influxdb-030903.svg?style=plasic&logo=influxdb&logoColor=blue">
-        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/telegraf-030903.svg?style=plasic&logo=influxdb&logoColor=white">
-        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/prometheus-030903.svg?style=plasic&logo=prometheus&logoColor=orange">
     <br>
         <h4>GIS Skills</h4>
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/GIS-030903.svg?style=plasic&logo=Qgis">
