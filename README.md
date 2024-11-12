@@ -41,7 +41,7 @@
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/DjangoRestFrameWork-030903.svg?style=flat&logo=django&logoColor=white">
     <br>
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Celery-030903.svg?style=flat&logo=celery&logoColor=green">
-        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Rabbitmq-030903.svg?style=flat&logo=rabbitmq&logoColor=green">
+        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Rabbitmq-030903.svg?style=flat&logo=rabbitmq&logoColor=orange">
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Nginx-030903.svg?style=plasic&logo=nginx&logoColor=green">
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Uwsgi-030903.svg?style=plasic&logo=Uwsgi&logoColor=green">
     <br>
