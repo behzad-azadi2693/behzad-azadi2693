@@ -92,12 +92,14 @@
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Microservices-030903.svg?style=plasic&logo=microservices&logoColor=aqua">
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/SSO-030903.svg?style=plasic&logo=SSO&logoColor=aqua">
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/DDD-030903.svg?style=plasic&logo=DDD&logoColor=aqua">
-        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/DDD-030903.svg?style=plasic&logo=TDD&logoColor=aqua">
+        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/TDD-030903.svg?style=plasic&logo=TDD&logoColor=aqua">
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Scrum-030903.svg?style=flat&logo=scrum&logoColor=orange">
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Agile-030903.svg?style=plasic&logo=agile&logoColor=blue">
         <br>
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/vscode-030903.svg?style=plasic&logo=visualstudiocode&logoColor=blue">
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/jupyter-030903.svg?style=plasic&logo=jupyter">
+        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/LPIC-030903.svg?style=plasic&logo=LPIC">
+        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Software Engineer-030903.svg?style=plasic&logo=Software Engineer">
     </div>
 </div>
 
