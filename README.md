@@ -1,4 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=behzad-azadi2693)
+<img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Software-technology-Engineer-030903.svg?style=plasic&logo=Software-technology-Engineer">
 <p>
     <img src='https://github-readme-stats.vercel.app/api?username=behzad-azadi2693&show_icons=true&theme=gotham'>
 </p>
@@ -99,7 +100,6 @@
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/vscode-030903.svg?style=plasic&logo=visualstudiocode&logoColor=blue">
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/jupyter-030903.svg?style=plasic&logo=jupyter">
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/LPIC-030903.svg?style=plasic&logo=LPIC">
-        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Software-Engineer-030903.svg?style=plasic&logo=SoftwareEngineer">
     </div>
 </div>
 
