@@ -99,7 +99,7 @@
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/vscode-030903.svg?style=plasic&logo=visualstudiocode&logoColor=blue">
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/jupyter-030903.svg?style=plasic&logo=jupyter">
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/LPIC-030903.svg?style=plasic&logo=LPIC">
-        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Software Engineer-030903.svg?style=plasic&logo=Software Engineer">
+        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Software-Engineer-030903.svg?style=plasic&logo=SoftwareEngineer">
     </div>
 </div>
 
