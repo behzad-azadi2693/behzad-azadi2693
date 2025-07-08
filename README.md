@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=behzad-azadi2693)
-<img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Software-technology-Engineer-030903.svg?style=plasic&logo=Software-technology-Engineer">
+<img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Software-technology-Engineer-030903.svg?style=plasic&logo=Software-Engineer">
 <p>
     <img src='https://github-readme-stats.vercel.app/api?username=behzad-azadi2693&show_icons=true&theme=gotham'>
 </p>
