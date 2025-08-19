@@ -83,7 +83,7 @@
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/geodjango-030903.svg?style=plasic&logo=django&logoColor=green">
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/postgis-030903.svg?style=plasic&logo=postgresql&logoColor=green">
     <br>
-        <h4>AI Skills</h4>
+        <h4>AI DUDE</h4>
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/AI-030903.svg?style=plasic&logo=ai&logoColor=green">
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/ML-030903.svg?style=plasic&logo=ai&logoColor=green">
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/DL-030903.svg?style=plasic&logo=ai&logoColor=green">
