@@ -70,6 +70,7 @@
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/ELK-030903.svg?style=plasic&logo=elastic&logoColor=red">
     <br>
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Kubernetes-030903.svg?style=plasic&logo=Kubernetes&logoColor=aqua">
+        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/HELM-030903.svg?style=plasic&logo=helm&logoColor=aqua">
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Ansible-030903.svg?style=plasic&logo=Ansible&logoColor=white">
     <br>
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/grafana-030903.svg?style=plasic&logo=grafana&logoColor=orange">
