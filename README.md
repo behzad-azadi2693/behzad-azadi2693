@@ -3,9 +3,9 @@
 <p style="text-align: justify;">Results-driven Software Engineer experienced in designing and delivering innovative software solutions. Skilled in modern technologies, problem-solving, and performance optimization. Collaborative and adaptable, passionate about driving impactful projects and continuous learning.</p>
 
 ![](https://komarev.com/ghpvc/?username=behzad-azadi2693)
-<p>
-    <img src='https://github-readme-stats.vercel.app/api?username=behzad-azadi2693&show_icons=true&theme=gotham'>
-</p>
+
+[![behzad-azadi2693's GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=behzad-azadi2693&theme=blueberry)](https://github.com/behzad-azadi2693)
+
 <h3>find me here</h3>
 <div>
     <div class="row">
@@ -98,33 +98,3 @@
         <img style="height:20px;" alt="Discord" src="https://img.shields.io/badge/NLP-030903.svg?style=plasic&logo=ai&logoColor=green">
     </div>
 </div>
-
-### Career History
-
-- Senior Backend Developer — Maxonir <br>
-    Built scalable Django APIs and microservices for enterprise systems. <br>
-    Tech: Python, Django, FastAPI, PostgreSQL, MongoDB, Redis, Docker, Celery, RabbitMQ
-
-- Test and Analyst — Arna <br>
-    Tested and documented open-source projects used in microservices systems. <br>
-    Tech: Docker, Keycloak
-
-- DevOps Engineer — Fanap <br>
-    Managed and deployed ERP system for the company using open-source solutions. <br>
-    Tech: Docker
-
-- Backend Developer & AI/GIS Engineer — Lavisan <br>
-    Developed web systems and algorithms for NLP and GIS projects. <br>
-    Tech: Python, GeoDjango, FastAPI, PostGIS, ElasticSearch
-
-- Senior Technical Expert — Ertebat-Afarinan-Be-Enteha <br>
-    Tested, reviewed, and designed systems for the team, ensuring high quality and scalability. <br>
-    Tech: Python, Django, REST APIs, Docker, BigBlueButton (BBB), PostgreSQL
-
-- Software Engineer — Iranian Technology Services <br>
-    Developed web systems for CRM, clinics, and tourism websites. <br>
-    Tech: Python, Django, MinIO, Docker, PostgreSQL, Redis
-
-- Backend Developer (Freelancer) <br>
-    Provided backend development services for various clients. <br>
-    Tech: Python, Docker, Elasticsearch, PostgreSQL, MySQL
